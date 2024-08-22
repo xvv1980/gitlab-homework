@@ -41,3 +41,16 @@
 
 Merge request
 
+![изображение](https://github.com/user-attachments/assets/acf4c9b6-b9a7-4e98-83c1-c9cee25245a2)
+
+Pipeline merge request
+
+![изображение](https://github.com/user-attachments/assets/9d574caa-d40e-41bd-8773-466a459240fb)
+
+Хранилище образов
+
+# Tester
+
+![изображение](https://github.com/user-attachments/assets/9cf93e7a-0826-44c0-987c-37f63435bd94)
+
+Запускаем контейнер из последнего образа в хранилище, проверяем результат

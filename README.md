@@ -30,3 +30,14 @@
 ![изображение](https://github.com/user-attachments/assets/85a3f6f4-0c6e-4f98-8447-c4dfed6bc1b1)
 
 Создана issue
+
+# Developer
+
+![изображение](https://github.com/user-attachments/assets/59e65ec5-5498-45f0-aaab-468edef359a8)
+
+Создана ветка для issue.
+
+![изображение](https://github.com/user-attachments/assets/c6899c21-ab46-4f2f-ac9a-6f135284926f)
+
+Merge request
+

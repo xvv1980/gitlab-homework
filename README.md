@@ -54,3 +54,7 @@ Pipeline merge request
 ![изображение](https://github.com/user-attachments/assets/9cf93e7a-0826-44c0-987c-37f63435bd94)
 
 Запускаем контейнер из последнего образа в хранилище, проверяем результат
+
+![изображение](https://github.com/user-attachments/assets/f99776ea-118d-4f8d-8cc5-47d10d49a828)
+
+Решенный issue
